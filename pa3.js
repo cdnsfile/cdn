@@ -1,1 +1,0 @@
-alert("okdu dlobe tjos ");
